@@ -1,1 +1,1 @@
-# React-game
+# Just learning React
